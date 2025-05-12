@@ -8,6 +8,7 @@ MCP servers can provide 3 main types of capabilities:
 * `Tools` - Functions that can be called by LLM
 * `Prompts` - Pre-written templates that can help users accomplish specific tasks
 
+### Claude desktop integration
 Run `mcp install server.py` to load the MCP server to `Claude`, the corresponding config in `~/Library/Application\ Support/Claude/claude_desktop_config.json` will be updated. Here is an example:
 ```json
 {
@@ -26,6 +27,9 @@ Run `mcp install server.py` to load the MCP server to `Claude`, the correspondin
   }
 }
 ```
+
+### Development mode
+Run `uv run mcp dev server.py` to inspect the MCP server
 
 ## References
 * Official intro [[link](https://modelcontextprotocol.io/introduction)]
