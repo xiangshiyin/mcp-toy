@@ -41,3 +41,5 @@ Run `uv run mcp dev server.py` to inspect the MCP server
 * `uv`
   * About `pyproject.toml` [[link](https://packaging.python.org/en/latest/guides/writing-pyproject-toml/)]
   * Official doc [[link](https://docs.astral.sh/uv/getting-started/)]
+  * Add local dependency [[link](https://medium.com/@man9r3/uv-python-add-local-dependencies-to-toml-file-b61f3b1a3036)]
+    * Using workspaces [[link](https://docs.astral.sh/uv/concepts/projects/workspaces/)]
