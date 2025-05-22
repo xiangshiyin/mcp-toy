@@ -40,6 +40,7 @@ Run `uv run mcp dev server.py` to inspect the MCP server
   * [[1](https://medium.com/@syed_hasan/step-by-step-guide-building-an-mcp-server-using-python-sdk-alphavantage-claude-ai-7a2bfb0c3096)]
 * `uv`
   * About `pyproject.toml` [[link](https://packaging.python.org/en/latest/guides/writing-pyproject-toml/)]
+  * Packing Python projects [[link](https://packaging.python.org/en/latest/tutorials/packaging-projects/)]
   * Official doc [[link](https://docs.astral.sh/uv/getting-started/)]
   * Add local dependency [[link](https://medium.com/@man9r3/uv-python-add-local-dependencies-to-toml-file-b61f3b1a3036)]
     * Using workspaces [[link](https://docs.astral.sh/uv/concepts/projects/workspaces/)]
